@@ -1,0 +1,253 @@
+{
+  "todotask": [
+    {
+      "id": "1759731538518",
+      "taskName": "meeting"
+    },
+    {
+      "id": "1759731545334",
+      "taskName": "meeting12"
+    },
+    {
+      "id": "1759731548954",
+      "taskName": "meeting122"
+    },
+    {
+      "id": "1759731554844",
+      "taskName": "meeting1223"
+    },
+    {
+      "id": "1759731560178",
+      "taskName": "meeting12234"
+    },
+    {
+      "id": "1759814434121",
+      "taskName": "cooking time"
+    },
+    {
+      "id": "1",
+      "taskName": "time to play"
+    },
+    {
+      "id": "1759820712539",
+      "taskName": "diner time"
+    },
+    {
+      "id": "1759820780021",
+      "taskName": "lunch time"
+    },
+    {
+      "id": "d784",
+      "taskName": "sleeping time"
+    },
+    {
+      "id": "fa35",
+      "taskName": "study time"
+    },
+    {
+      "id": "4a16",
+      "taskName": "study time"
+    },
+    {
+      "id": "7266",
+      "taskName": "study time"
+    }
+  ],
+  "task": [],
+  "cart": [],
+  "orders": [],
+  "users": [
+    {
+      "id": "357a",
+      "phone": "7094814160",
+      "email": "mayadivya39@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "24d5",
+      "phone": "8015550330",
+      "email": "test.t.com",
+      "password": "$2b$10$oieWHuqZJWRqtd1iFMB2yeiAgsRxA7/e8Mv.AEgdptDvHdtAyC8Ye"
+    },
+    {
+      "id": "0837",
+      "phone": "1234567891",
+      "email": "test.t.com",
+      "password": "$2b$10$f1n4XxjqXuW0MdO1UBYtG.ZV3bDoA89y7vxzcTiQ.395nzmRv7Gxe"
+    },
+    {
+      "id": "a839",
+      "phone": "1234567891",
+      "email": "hemalatha14@gmailcom",
+      "password": "$2b$10$.CzLhn4qiFaR6HCsKn5pU.TM5RUKx/DJa0svFTXlp4.1tOeUhStsm"
+    },
+    {
+      "id": "1760367065410",
+      "name": "divya",
+      "email": "divya15@gmail.com",
+      "password": "$2b$10$fuM8RpIIuGn.S/JjE8cx0.2uWxjLIJB6xs2fu/SFdBTBvDyuYwARu"
+    },
+    {
+      "id": "048b",
+      "phone": "12345678",
+      "email": "m",
+      "password": "$2b$10$hwPo0K29xxx3k1x3/DGmFuw6dI.dGIWfmONQ1y.q9JRZMdYTOE2mm"
+    }
+  ],
+  "registration": [],
+  "explore":[
+    {
+      "id":"1",
+      "name":"oppo 46",
+      "price":"15000",
+      "img":"oppo3.jpg"
+    },
+    {
+      "id":"2",
+      "name":"oppo 55",
+      "price":"30000",
+      "img":"oppo1.jpg"
+    },
+    {
+      "id":"3",
+      "name":"oppo  a79",
+      "price":"50000",
+      "img":"oppo.jpg"
+    },
+    {
+      "id":"4",
+      "name":"oppo 85",
+      "price":"70000",
+      "img":"oppo4.jpg"
+    },
+    {
+      "id":"5",
+      "name":"oppo 89",
+      "price":"80000",
+      "img":"oppo5.jpg"
+    } 
+  ],
+  "product":[
+    {
+      "id":"1",
+      "name":"oppo 46",
+      "price":"15000",
+      "img":"oppo.jpg"
+    },
+    {
+      "id":"2",
+      "name":"oppo 55",
+      "price":"30000",
+      "img":"oppo1.jpg"
+    },
+    {
+      "id":"3",
+      "name":"oppo  a79",
+      "price":"50000",
+      "img":"oppo3.jpg"
+    },
+    {
+      "id":"4",
+      "name":"oppo 85",
+      "price":"70000",
+      "img":"oppo4.jpg"
+    },
+    {
+      "id":"5",
+      "name":"oppo 89",
+      "price":"80000",
+      "img":"oppo5.jpg"
+    },
+    {
+      "id":"6",
+      "name":"vivo 7",
+      "price":"15000",
+      "img":"vivo.jpg"
+    },
+    {
+      "id":"7",
+      "name":"vivo 10",
+      "price":"20000",
+      "img":"vivo1.jpg"
+    },
+    {
+      "id":"8",
+      "name":"vivo 14",
+      "price":"50000",
+      "img":"vivo5.jpg"
+    },
+    {
+      "id":"9",
+      "name":"vivo 16",
+      "price":"70000",
+      "img":"vivo3.jpg"
+    },
+    {
+      "id":"10",
+      "name":"vivo 17",
+      "price":"80000",
+      "img":"vivo4.jpg"
+    },
+    {
+      "id":"11",
+      "name":"poco 7",
+      "price":"15000",
+      "img":"poco.jpg"
+    },
+    {
+      "id":"12",
+      "name":"poco 10",
+      "price":"20000",
+      "img":"poco1.jpg"
+    },
+    {
+      "id":"13",
+      "name":"poco 13",
+      "price":"30000",
+      "img":"poco2.jpg"
+    },
+    {
+      "id":"14",
+      "name":"poco 15",
+      "price":"50000",
+      "img":"poco3.jpg"
+    },
+    {
+      "id":"15",
+      "name":"poco 17",
+      "price":"100000",
+      "img":"poco4.jpg"
+    },
+    {
+      "id":"16",
+      "name":"apple 8 pro",
+      "price":"50000",
+      "img":"apple1.jpg"
+    },
+    {
+      "id":"17",
+      "name":"apple 12 pro",
+      "price":"80000",
+      "img":"apple2.jpg"
+    },
+    {
+      "id":"18",
+      "name":"apple 13 pro",
+      "price":"100000",
+      "img":"apple3.jpg"
+    },
+    {
+      "id":"19",
+      "name":"oppo 15 pro",
+      "price":"150000",
+      "img":"apple4.jpg"
+    },
+    {
+      "id":"20",
+      "name":"apple 16 pro",
+      "price":"180000",
+      "img":"apple5.jpg"
+    }
+
+  ]
+}

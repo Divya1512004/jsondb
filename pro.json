@@ -1,0 +1,2860 @@
+{
+  "cart":[],
+  "user": [
+    {
+      "id": "c006",
+      "name": "d",
+      "email": "d",
+      "phone": "d",
+      "password": "$2b$10$CT2Icc8IQfz3h57yrxhLTexx3MIVovuCUMI4CAPJBlVoA3v9PsJeO"
+    },
+    {
+      "id": "fdfe",
+      "name": "s",
+      "email": "s",
+      "phone": "s",
+      "password": "$2b$10$SI/3w1SKHkNocym33sqHue6ag7MjWzDQy0ox1ao1wQv2tpl6kx6FK"
+    }
+  ],
+  "shirts": [
+    {
+      "id": "1",
+      "img": "/photos/shirt1.jpg",
+      "bimg": "/photos/shirt1.1.jpg",
+      "bimg1": "/photos/shirt1.2.jpg",
+      "bimg2": "/photos/shirt1.3.jpg",
+      "name": "Blue Checked Shirt",
+      "price": 1549,
+      "category": "shirt",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A stylish blue and white checked shirt made for everyday comfort."
+    },
+    {
+      "id": "2",
+      "img": "/photos/shirt2.jpg",
+      "bimg": "/photos/shirt2.1.jpg",
+      "bimg1": "/photos/shirt2.2.jpg",
+      "bimg2": "/photos/shirt2.3.jpg",
+      "name": "Tropical Beat Holiday shirt",
+      "category": "shirt",
+      "price": 1289,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A vibrant orange casual shirt designed for all-day comfort and effortless style."
+    },
+    {
+      "id": "3",
+      "img": "/photos/shirt3.jpg",
+      "bimg": "/photos/shirt3.1.jpg",
+      "bimg1": "/photos/shirt3.2.jpg",
+      "bimg2": "/photos/shirt3.3.jpg",
+      "name": "Men Casual Shirt",
+      "price": 1599,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft white pink-colored casual shirt that adds a fresh and elegant touch to your everyday look."
+    },
+    {
+      "id": "4",
+      "img": "/photos/shirt4.jpg",
+      "bimg": "/photos/shirt4.1.jpg",
+      "bimg1": "/photos/shirt4.2.jpg",
+      "bimg2": "/photos/shirt4.3.jpg",
+      "name": "Black Checked Shirt",
+      "price": 1489,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A stylish black checked shirt that delivers a bold, modern look for any casual occasion."
+    },
+    {
+      "id": "5",
+      "img": "/photos/shirt5.jpg",
+      "bimg": "/photos/shirt5.1.jpg",
+      "bimg1": "/photos/shirt5.2.jpg",
+      "bimg2": "/photos/shirt5.3.jpg",
+      "name": "Fit Casual Shirt",
+      "price": 1666,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft pink, white, and gray linen shirt that gives a clean, modern, and stylish everyday look."
+    },
+    {
+      "id": "6",
+      "img": "/photos/shirt6.jpg",
+      "bimg": "/photos/shirt6.1.jpg",
+      "bimg1": "/photos/shirt6.2.jpg",
+      "bimg2": "/photos/shirt6.3.jpg",
+      "name": "Holiday Wear Shirt",
+      "price": 2999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A maroon, black, sandal, and red mixed box-pattern shirt that gives a bold and stylish look."
+    },
+    {
+      "id": "7",
+      "img": "/photos/shirt7.jpg",
+      "bimg": "/photos/shirt7.1.jpg",
+      "bimg1": "/photos/shirt7.2.jpg",
+      "bimg2": "/photos/shirt7.3.jpg",
+      "name": "men Casual Wear",
+      "price": 1456,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A dark brown, black, and white checked-and-lined shirt that gives a sharp and modern casual look."
+    },
+    {
+      "id": "8",
+      "img": "/photos/shirt8.jpg",
+      "bimg": "/photos/shirt8.1.jpg",
+      "bimg1": "/photos/shirt8.2.jpg",
+      "bimg2": "/photos/shirt8.3.jpg",
+      "name": "Black White Linen shirt",
+      "price": 1549,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A black checked shirt with white lines that gives a clean, bold, and stylish look."
+    }
+  ],
+  "men": [
+    {
+      "id": "9",
+      "img": "/photos/shirt9.jpg",
+      "bimg": "/photos/shirt9.1.jpg",
+      "bimg1": "/photos/shirt9.2.jpg",
+      "bimg2": "/photos/shirt9.3.jpg",
+      "name": "Men Relaxed Shirt",
+      "price": 1609,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A green, sandal, and blue checked shirt that offers a fresh, vibrant, and stylish appearance."
+    },
+    {
+      "id": "10",
+      "img": "/photos/pant9.jpg",
+      "bimg": "/photos/pant9.1.jpg",
+      "bimg1": "/photos/pant9.2.jpg",
+      "bimg2": "/photos/pant9.3.jpg",
+      "name": "Men Fit Pant",
+      "price": 999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A stylish reddish-brown pant that adds a warm, modern touch to any outfit."
+    },
+    {
+      "id": "11",
+      "img": "/photos/tshirt9.jpg",
+      "bimg": "/photos/tshirt9.1.jpg",
+      "bimg1": "/photos/tshirt9.2.jpg",
+      "bimg2": "/photos/tshirt9.3.jpg",
+      "name": "Polo TShirt",
+      "price": 1999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A black, white, and mild Brown T-shirt that gives a bold, trendy, and eye-catching look."
+    },
+    {
+      "id": "12",
+      "img": "/photos/short9.jpg",
+      "bimg": "/photos/short9.1.jpg",
+      "bimg1": "/photos/short9.2.jpg",
+      "bimg2": "/photos/short9.3.jpg",
+      "name": "Men Fit Shorts",
+      "price": 1899,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A sandal-colored short that gives a clean, cool, and casual everyday look."
+    },
+    {
+      "id": "13",
+      "img": "/photos/shirt10.jpg",
+      "bimg": "/photos/shirt10.1.jpg",
+      "bimg1": "/photos/shirt10.2.jpg",
+      "bimg2": "/photos/shirt10.3.jpg",
+      "name": "Hogwarts Grid Shirt",
+      "price": 1399,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A Hogwarts-themed grid shirt that brings a magical, stylish vibe to any casual look."
+    },
+    {
+      "id": "14",
+      "img": "/photos/pant10.jpg",
+      "bimg": "/photos/pant10.1.jpg",
+      "bimg1": "/photos/pant10.2.jpg",
+      "bimg2": "/photos/pant10.3.jpg",
+      "name": "Men Fit Gray Pant",
+      "price": 999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A light gray pant that gives a clean, modern, and versatile everyday look."
+    },
+    {
+      "id": "15",
+      "img": "/photos/short10.jpg",
+      "bimg": "/photos/short10.1.jpg",
+      "bimg1": "/photos/short10.2.jpg",
+      "bimg2": "/photos/short10.3.jpg",
+      "name": "Men Fit White Blue Shorts",
+      "price": 1239,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A white and mixed-blue piece that gives a fresh, clean, and stylish look."
+    },
+    {
+      "id": "16",
+      "img": "/photos/tshirt10.jpg",
+      "bimg": "/photos/tshirt10.1.jpg",
+      "bimg1": "/photos/tshirt10.2.jpg",
+      "bimg2": "/photos/tshirt10.3.jpg",
+      "name": "Gray Tshirt",
+      "price": 1099,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A gray and white piece that gives a clean, modern look."
+    }
+  ],
+  "pants": [
+    {
+      "id": "17",
+      "img": "/photos/pant5.jpg",
+      "bimg": "/photos/pant5.1.jpg",
+      "bimg1": "/photos/pant5.2.jpg",
+      "bimg2": "/photos/pant5.3.jpg",
+      "name": "Men Fit White Pant",
+      "price": 950,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A crisp white pant that adds a bright, refined touch to any outfit."
+    },
+    {
+      "id": "18",
+      "img": "/photos/pant6.jpg",
+      "bimg": "/photos/pant6.1.jpg",
+      "bimg1": "/photos/pant6.2.jpg",
+      "bimg2": "/photos/pant6.3.jpg",
+      "name": "Blue Jean Pant",
+      "price": 1470,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A blue jean that gives a classic, durable, and effortlessly stylish everyday look."
+    },
+    {
+      "id": "19",
+      "img": "/photos/pant11.jpg",
+      "bimg": "/photos/pant11.1.jpg",
+      "bimg1": "/photos/pant11.2.jpg",
+      "bimg2": "/photos/pant11.3.jpg",
+      "name": "Black Cargo Pant",
+      "price": 1585,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A black cargo pant is a stylish, comfy bottom wear featuring multiple utility pockets for a casual and Stylish look."
+    },
+    {
+      "id": "20",
+      "img": "/photos/pant13.jpg",
+      "bimg": "/photos/pant13.1.jpg",
+      "bimg1": "/photos/pant13.2.jpg",
+      "bimg2": "/photos/pant13.3.jpg",
+      "name": "Blue Jean Pant",
+      "price": 1500,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A blue jean is a classic denim pant known for its durable fabric and timeless casual style."
+    },
+    {
+      "id": "21",
+      "img": "/photos/pant19.jpg",
+      "bimg": "/photos/pant19.1.jpg",
+      "bimg1": "/photos/pant19.2.jpg",
+      "bimg2": "/photos/pant19.3.jpg",
+      "name": "Men Casual Pant",
+      "price": 1476,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A light green pant is a soft-toned, refreshing bottom wear that adds a calm and stylish touch to any outfit."
+    },
+    {
+      "id": "22",
+      "img": "/photos/pant15.jpg",
+      "bimg": "/photos/pant15.1.jpg",
+      "bimg1": "/photos/pant15.2.jpg",
+      "bimg2": "/photos/pant15.3.jpg",
+      "name": "Men Slim Fit Jean",
+      "price": 1300,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A blue slim-fit jean is a sleek, modern denim that fits close to the body for a sharp and stylish look."
+    },
+    {
+      "id": "23",
+      "img": "/photos/pant20.jpg",
+      "bimg": "/photos/pant20.1.jpg",
+      "bimg1": "/photos/pant20.2.jpg",
+      "bimg2": "/photos/pant20.3.jpg",
+      "name": "Men Cargo Pant",
+      "price": 1656,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A cargo pant is a functional, casual bottom wear featuring multiple utility pockets for a rugged, stylish look."
+    },
+    {
+      "id": "24",
+      "img": "/photos/pant18.jpg",
+      "bimg": "/photos/pant18.1.jpg",
+      "bimg1": "/photos/pant18.2.jpg",
+      "bimg2": "/photos/pant18.3.jpg",
+      "name": "Brown Cargo Baggy Pant",
+      "price": 1578,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A brown cargo baggy pant is a relaxed, roomy style with utility pockets that blends comfort and rugged fashion."
+    }
+  ],
+  "tshirts": [
+    {
+      "id": "25",
+      "img": "/photos/tshirt1.jpg",
+      "bimg": "/photos/tshirt1.1.jpg",
+      "bimg1": "/photos/tshirt1.2.jpg",
+      "bimg2": "/photos/tshirt1.3.jpg",
+      "name": "Printed Box Fit T-shirt",
+      "price": 1600,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A white printed box-fit T-shirt is a roomy, stylish tee featuring bold prints and a relaxed, modern silhouette."
+    },
+    {
+      "id": "26",
+      "img": "/photos/tshirt2.jpg",
+      "bimg": "/photos/tshirt2.1.jpg",
+      "bimg1": "/photos/tshirt2.2.jpg",
+      "bimg2": "/photos/tshirt2.3.jpg",
+      "name": "Black Printed T-shirt",
+      "price": 1690,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A black printed T-shirt is a casual, versatile tee featuring eye-catching graphics on a classic dark base."
+    },
+    {
+      "id": "27",
+      "img": "/photos/tshirt3.jpg",
+      "bimg": "/photos/tshirt3.1.jpg",
+      "bimg1": "/photos/tshirt3.2.jpg",
+      "bimg2": "/photos/tshirt3.3.jpg",
+      "name": "Contrast Pocket T-shirt",
+      "price": 1700,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A contrast-pocket oversized T-shirt is a roomy, trendy tee featuring a standout pocket that adds a bold, stylish touc"
+    },
+    {
+      "id": "28",
+      "img": "/photos/tshirt4.jpg",
+      "bimg": "/photos/tshirt4.1.jpg",
+      "bimg1": "/photos/tshirt4.2.jpg",
+      "bimg2": "/photos/tshirt4.3.jpg",
+      "name": "White Colour Blocked Knit Polo",
+      "price": 1780,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A white colour-blocked knit polo is a stylish, soft-knit shirt featuring bold contrasting panels for a modern, sporty look."
+    },
+    {
+      "id": "29",
+      "img": "/photos/tshirt5.jpg",
+      "bimg": "/photos/tshirt5.1.jpg",
+      "bimg1": "/photos/tshirt5.2.jpg",
+      "bimg2": "/photos/tshirt5.3.jpg",
+      "name": "OverSized Knit Polo",
+      "price": 1700,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "An oversized black knit polo is a relaxed, premium-feel shirt with a roomy fit and a clean, modern look."
+    },
+    {
+      "id": "30",
+      "img": "/photos/tshirt6.jpg",
+      "bimg": "/photos/tshirt6.1.jpg",
+      "bimg1": "/photos/tshirt6.2.jpg",
+      "bimg2": "/photos/tshirt6.3.jpg",
+      "name": "Printer Cotten T-shirt",
+      "price": 1500,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A printed cotton T-shirt is a soft, breathable tee featuring stylish graphics for a casual everyday look."
+    },
+    {
+      "id": "31",
+      "img": "/photos/tshirt7.jpg",
+      "bimg": "/photos/tshirt7.1.jpg",
+      "bimg1": "/photos/tshirt7.2.jpg",
+      "bimg2": "/photos/tshirt7.3.jpg",
+      "name": "OverSized Printed T-shirt",
+      "price": 1589,
+      "description": "A Purple T-shirt is a soft, pastel-toned tee that adds a calm and stylish pop of color to any outfit."
+    },
+    {
+      "id": "32",
+      "img": "/photos/tshirt8.jpg",
+      "bimg": "/photos/tshirt8.1.jpg",
+      "bimg1": "/photos/tshirt8.2.jpg",
+      "bimg2": "/photos/tshirt8.3.jpg",
+      "name": "Printed T-Shirt",
+      "price": 1405,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A printed T-shirt is a casual, comfortable tee featuring stylish graphics or patterns for a trendy look."
+    }
+  ],
+  "shorts": [
+    {
+      "id": "33",
+      "img": "/photos/short1.jpg",
+      "bimg": "/photos/short1.1.jpg",
+      "bimg1": "/photos/short1.2.jpg",
+      "bimg2": "/photos/short1.3.jpg",
+      "name": "Men Fit Shorts",
+      "price": 1095,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Comfortable everyday shorts made from soft, breathable cotton."
+    },
+    {
+      "id": "34",
+      "img": "/photos/short2.jpg",
+      "bimg": "/photos/short2.1.jpg",
+      "bimg1": "/photos/short2.2.jpg",
+      "bimg2": "/photos/short2.3.jpg",
+      "name": "Men Fit Shorts",
+      "price": 1357,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Sleek slim-fit shorts that offer a sharp and modern silhouette."
+    },
+    {
+      "id": "35",
+      "img": "/photos/short3.jpg",
+      "bimg": "/photos/short3.1.jpg",
+      "bimg1": "/photos/short3.2.jpg",
+      "bimg2": "/photos/short3.3.jpg",
+      "name": "Men Cargo Shorts",
+      "price": 1356,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Functional cargo shorts with spacious pockets for a rugged, practical look."
+    },
+    {
+      "id": "36",
+      "img": "/photos/short4.jpg",
+      "bimg": "/photos/short4.1.jpg",
+      "bimg1": "/photos/short4.2.jpg",
+      "bimg2": "/photos/short4.3.jpg",
+      "name": "Black Fit Shorts",
+      "price": 1203,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Black jean short,A sleek and durable denim short offering a clean, versatile look for everyday wear."
+    },
+    {
+      "id": "37",
+      "img": "/photos/short5.jpg",
+      "bimg": "/photos/short5.1.jpg",
+      "bimg1": "/photos/short5.2.jpg",
+      "bimg2": "/photos/short5.3.jpg",
+      "name": "Men Fit Shorts",
+      "price": 1376,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Stylish and durable denim shorts perfect for casual outings."
+    },
+    {
+      "id": "38",
+      "img": "/photos/short6.jpg",
+      "bimg": "/photos/short6.1.jpg",
+      "bimg1": "/photos/short6.2.jpg",
+      "bimg2": "/photos/short6.3.jpg",
+      "name": "Blue Jean Shorts",
+      "price": 1342,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A classic and rugged denim short that pairs effortlessly with any casual outfit."
+    },
+    {
+      "id": "39",
+      "img": "/photos/short7.jpg",
+      "bimg": "/photos/short7.1.jpg",
+      "bimg1": "/photos/short7.2.jpg",
+      "bimg2": "/photos/short7.3.jpg",
+      "name": "Men Fit Shorts",
+      "price": 1456,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Comfortable everyday shorts made from soft, breathable cotton."
+    },
+    {
+      "id": "40",
+      "img": "/photos/short8.jpg",
+      "bimg": "/photos/short8.1.jpg",
+      "bimg1": "/photos/short8.2.jpg",
+      "bimg2": "/photos/short8.3.jpg",
+      "name": "Blue Jean Fit Shorts",
+      "price": 1200,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Simple, lightweight shorts that bring a fresh and casual vibe to everyday wear."
+    }
+  ],
+  "women": [
+    {
+      "id": "41",
+      "img": "/photos/womenshirt9.jpg",
+      "bimg": "/photos/womenshirt9.1.jpg",
+      "bimg1": "/photos/womenshirt9.2.jpg",
+      "bimg2": "/photos/womenshirt9.3.jpg",
+      "name": "Stylish Shirt",
+      "price": 1367,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A bold and elegant shirt that adds a vibrant touch to any outfit."
+    },
+    {
+      "id": "42",
+      "img": "/photos/womenpant9.jpg",
+      "bimg": "/photos/womenpant9.1.jpg",
+      "bimg1": "/photos/womenpant9.2.jpg",
+      "bimg2": "/photos/womenpant9.3.jpg",
+      "name": "Trendy Pant",
+      "price": 1267,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A sleek and versatile bottom that delivers a clean, polished look for any occasion."
+    },
+    {
+      "id": "43",
+      "img": "/photos/top9.jpg",
+      "bimg": "/photos/top9.1.jpg",
+      "bimg1": "/photos/top9.2.jpg",
+      "bimg2": "/photos/top9.3.jpg",
+      "name": "Stylish Top",
+      "price": 1579,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A stylish and comfortable upper wear designed to elevate everyday fashion effortlessly."
+    },
+    {
+      "id": "44",
+      "img": "/photos/dress9.jpg",
+      "bimg": "/photos/dress9.1.jpg",
+      "bimg1": "/photos/dress9.2.jpg",
+      "bimg2": "/photos/dress9.3.jpg",
+      "name": "Stylish Women Dress",
+      "price": 2679,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A classy and elegant outfit crafted to bring a rich, sophisticated look to any special occasion."
+    },
+    {
+      "id": "45",
+      "img": "/photos/womenshirt10.jpg",
+      "bimg": "/photos/womenshirt10.1.jpg",
+      "bimg1": "/photos/womenshirt10.2.jpg",
+      "bimg2": "/photos/womenshirt10.3.jpg",
+      "name": "Pink Shirt",
+      "price": 1432,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft and stylish shirt that adds a fresh, cheerful touch to any look."
+    },
+    {
+      "id": "46",
+      "img": "/photos/womenpant10.jpg",
+      "bimg": "/photos/womenpant10.1.jpg",
+      "bimg1": "/photos/womenpant10.2.jpg",
+      "bimg2": "/photos/womenpant10.3.jpg",
+      "name": "White Pant",
+      "price": 1256,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A clean and elegant bottom that brings a crisp, polished look to any outfit."
+    },
+    {
+      "id": "47",
+      "img": "/photos/top10.jpg",
+      "bimg": "/photos/top10.1.jpg",
+      "bimg1": "/photos/top10.2.jpg",
+      "bimg2": "/photos/top10.3.jpg",
+      "name": "Stylish Purple Top",
+      "price": 1379,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A chic and vibrant top that adds a stylish pop of color to any outfit."
+    },
+    {
+      "id": "48",
+      "img": "/photos/dress10.jpg",
+      "bimg": "/photos/dress10.1.jpg",
+      "bimg1": "/photos/dress10.2.jpg",
+      "bimg2": "/photos/dress.3.jpg",
+      "name": "Stylish Black Dress",
+      "price": 1679,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A timeless and elegant outfit that delivers a sleek, classic look for any occasion."
+    }
+  ],
+  "womenshirt": [
+    {
+      "id": "49",
+      "img": "/photos/womenshirt1.jpg",
+      "bimg": "/photos/womenshirt1.1.jpg",
+      "bimg1": "/photos/womenshirt1.2.jpg",
+      "bimg2": "/photos/womenshirt1.4.jpg",
+      "name": "Navy Blue Shirt",
+      "price": 1600,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A smart and versatile shirt that offers a clean, refined look for everyday wear."
+    },
+    {
+      "id": "50",
+      "img": "/photos/womenshirt2.jpg",
+      "bimg": "/photos/womenshirt2.1.jpg",
+      "bimg1": "/photos/womenshirt2.2.jpg",
+      "bimg2": "/photos/womenshirt2.3.jpg",
+      "name": "White Shirt",
+      "price": 1605,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A crisp and classic shirt that brings a fresh, clean look to any outfit."
+    },
+    {
+      "id": "51",
+      "img": "/photos/womenshirt3.jpg",
+      "bimg": "/photos/womenshirt3.1.jpg",
+      "bimg1": "/photos/womenshirt3.2.jpg",
+      "bimg2": "/photos/womenshirt3.3.jpg",
+      "name": "Black Shirt",
+      "price": 1680,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A sleek and stylish top that delivers a bold, polished look for any occasion."
+    },
+    {
+      "id": "52",
+      "img": "/photos/womenshirt4.jpg",
+      "bimg": "/photos/womenshirt4.1.jpg",
+      "bimg1": "/photos/womenshirt4.2.jpg",
+      "bimg2": "/photos/womenshirt4.3.jpg",
+      "name": "Purple Shirt",
+      "price": 1600,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A trendy and vibrant cropped top that adds a bold, stylish touch to any outfit."
+    },
+    {
+      "id": "53",
+      "img": "/photos/womenshirt5.jpg",
+      "bimg": "/photos/womenshirt5.1.jpg",
+      "bimg1": "/photos/womenshirt5.2.jpg",
+      "bimg2": "/photos/womenshirt5.3.jpg",
+      "name": "Stylish Black Shirt",
+      "price": 1789,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A vibrant and stylish shirt featuring a blend of colors for a bold, eye-catching look."
+    },
+    {
+      "id": "54",
+      "img": "/photos/womenshirt6.jpg",
+      "bimg": "/photos/womenshirt6.1.jpg",
+      "bimg1": "/photos/womenshirt6.2.jpg",
+      "bimg2": "/photos/womenshirt6.3.jpg",
+      "name": "Trendy Shirt",
+      "price": 1560,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A trendy and modern top designed to give a stylish, youthful look with its shorter length."
+    },
+    {
+      "id": "55",
+      "img": "/photos/womenshirt7.jpg",
+      "bimg": "/photos/womenshirt7.1.jpg",
+      "bimg1": "/photos/womenshirt7.2.jpg",
+      "bimg2": "/photos/womenshirt7.3.jpg",
+      "name": "White Printed Shirt",
+      "price": 1600,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A fresh and stylish shirt featuring eye-catching prints for a trendy, modern look."
+    },
+    {
+      "id": "56",
+      "img": "/photos/womenshirt8.jpg",
+      "bimg": "/photos/womenshirt8.1.jpg",
+      "bimg1": "/photos/womenshirt8.2.jpg",
+      "bimg2": "/photos/womenshirt8.3.jpg",
+      "name": "Navy Blue Shirt",
+      "price": 1567,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A smart and versatile shirt that offers a clean, refined look for everyday wear."
+    }
+  ],
+  "womenpant": [
+    {
+      "id": "57",
+      "img": "/photos/womenpant1.jpg",
+      "bimg": "/photos/womenpant1.1.jpg",
+      "bimg1": "/photos/womenpant1.2.jpg",
+      "bimg2": "/photos/womenpant1.3.jpg",
+      "name": "Maroon Pant",
+      "price": 1654,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A rich and stylish bottom that adds a bold, sophisticated touch to any outfit."
+    },
+    {
+      "id": "58",
+      "img": "/photos/womenpant2.jpg",
+      "bimg": "/photos/womenpant2.1.jpg",
+      "bimg1": "/photos/womenpant2.2.jpg",
+      "bimg2": "/photos/womenpant2.3.jpg",
+      "name": "Stylish Pant",
+      "price": 1457,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A sleek and versatile bottom that gives a modern, polished look for any occasion."
+    },
+    {
+      "id": "59",
+      "img": "/photos/womenpant3.jpg",
+      "bimg": "/photos/womenpant3.1.jpg",
+      "bimg1": "/photos/womenpant3.2.jpg",
+      "bimg2": "/photos/womenpant3.3.jpg",
+      "name": "Trendy Pant",
+      "price": 1245,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft sand-colored pant that delivers a calm, neutral, and effortlessly stylish look."
+    },
+    {
+      "id": "60",
+      "img": "/photos/womenpant4.jpg",
+      "bimg": "/photos/womenpant4.1.jpg",
+      "bimg1": "/photos/womenpant4.2.jpg",
+      "bimg2": "/photos/womenpant4.3.jpg",
+      "name": "Purple Pant",
+      "price": 1439,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A bold and stylish bottom that adds a vibrant, standout touch to any outfit."
+    },
+    {
+      "id": "61",
+      "img": "/photos/womenpant5.jpg",
+      "bimg": "/photos/womenpant5.1.jpg",
+      "bimg1": "/photos/womenpant5.2.jpg",
+      "bimg2": "/photos/womenpant5.3.jpg",
+      "name": "Stylish Pant",
+      "price": 1534,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft and elegant bottom that brings a fresh, warm touch to any outfit."
+    },
+    {
+      "id": "62",
+      "img": "/photos/womenpant6.jpg",
+      "bimg": "/photos/womenpant6.1.jpg",
+      "bimg1": "/photos/womenpant6.2.jpg",
+      "bimg2": "/photos/womenpant6.3.jpg",
+      "name": "Light Yellow Pant",
+      "price": 1675,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft and refreshing bottom that adds a bright, cheerful touch to any look."
+    },
+    {
+      "id": "63",
+      "img": "/photos/womenpant7.jpg",
+      "bimg": "/photos/womenpant7.1.jpg",
+      "bimg1": "/photos/womenpant7.2.jpg",
+      "bimg2": "/photos/womenpant7.3.jpg",
+      "name": "Black Pant",
+      "price": 1480,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A sleek and versatile bottom that gives a clean, polished look for any occasion."
+    },
+    {
+      "id": "64",
+      "img": "/photos/womenpant8.jpg",
+      "bimg": "/photos/womenpant8.1.jpg",
+      "bimg1": "/photos/womenpant8.2.jpg",
+      "bimg2": "/photos/womenpant8.3.jpg",
+      "name": "Stylish Pant",
+      "price": 1597,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A stylish and comfortable bottom designed to pair effortlessly with any outfit."
+    }
+  ],
+  "top": [
+    {
+      "id": "65",
+      "img": "/photos/top1.jpg",
+      "bimg": "/photos/top1.1.jpg",
+      "bimg1": "/photos/top1.2.jpg",
+      "bimg2": "/photos/top1.3.jpg",
+      "name": "White Black Top",
+      "price": 1567,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A chic, contrasting top that offers a stylish and modern two-tone look."
+    },
+    {
+      "id": "66",
+      "img": "/photos/top2.jpg",
+      "bimg": "/photos/top2.1.jpg",
+      "bimg1": "/photos/top2.2.jpg",
+      "bimg2": "/photos/top2.3.jpg",
+      "name": "Black Top",
+      "price": 1590,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A sleek and versatile top that adds a bold, polished touch to any outfit."
+    },
+    {
+      "id": "67",
+      "img": "/photos/top3.jpg",
+      "bimg": "/photos/top3.1.jpg",
+      "bimg1": "/photos/top3.2.jpg",
+      "bimg2": "/photos/top3.3.jpg",
+      "name": "Crop Top",
+      "price": 1674,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A fresh and charming shirt featuring soft pink prints for a stylish, lively look."
+    },
+    {
+      "id": "68",
+      "img": "/photos/top4.jpg",
+      "bimg": "/photos/top4.1.jpg",
+      "bimg1": "/photos/top4.2.jpg",
+      "bimg2": "/photos/top4.3.jpg",
+      "name": "Pink Crop Top",
+      "price": 1786,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A cute and trendy cropped top that adds a bright, youthful touch to any outfit."
+    },
+    {
+      "id": "69",
+      "img": "/photos/top5.jpg",
+      "bimg": "/photos/top5.1.jpg",
+      "bimg1": "/photos/top5.2.jpg",
+      "bimg2": "/photos/top5.3.jpg",
+      "name": "Green Top",
+      "price": 1546,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A vibrant and elegant top designed to add a bold, festive sparkle to any special occasion."
+    },
+    {
+      "id": "70",
+      "img": "/photos/top6.jpg",
+      "bimg": "/photos/top6.1.jpg",
+      "bimg1": "/photos/top6.2.jpg",
+      "bimg2": "/photos/top6.3.jpg",
+      "name": "Trendy Top",
+      "price": 1857,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A stylish and comfortable upper wear designed to elevate any everyday look."
+    },
+    {
+      "id": "71",
+      "img": "/photos/top7.jpg",
+      "bimg": "/photos/top7.1.jpg",
+      "bimg1": "/photos/top7.2.jpg",
+      "bimg2": "/photos/top7.3.jpg",
+      "name": "Stylish Top",
+      "price": 1786,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft and elegant top that adds a warm, refreshing touch to any outfit."
+    },
+    {
+      "id": "72",
+      "img": "/photos/top8.jpg",
+      "bimg": "/photos/top8.1.jpg",
+      "bimg1": "/photos/top8.2.jpg",
+      "bimg2": "/photos/top8.3.jpg",
+      "name": "Blue Top",
+      "price": 1386,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A cool and refreshing top that brings a soft, breezy touch to any outfit."
+    }
+  ],
+  "dress": [
+    {
+      "id": "73",
+      "img": "/photos/dress1.jpg",
+      "bimg": "/photos/dress1.1.jpg",
+      "bimg1": "/photos/dress1.2.jpg",
+      "bimg2": "/photos/dress1.3.jpg",
+      "name": "Orange Stylish Dress",
+      "price": 1345,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A bright and vibrant dress that brings a bold, cheerful touch to any occasion."
+    },
+    {
+      "id": "74",
+      "img": "/photos/dress2.jpg",
+      "bimg": "/photos/dress2.1.jpg",
+      "bimg1": "/photos/dress2.2.jpg",
+      "bimg2": "/photos/dress2.3.jpg",
+      "name": "Blue Dress",
+      "price": 1564,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A classy and elegant dress that adds a calm, stylish touch to any occasion."
+    },
+    {
+      "id": "75",
+      "img": "/photos/dress3.jpg",
+      "bimg": "/photos/dress3.1.jpg",
+      "bimg1": "/photos/dress3.2.jpg",
+      "bimg2": "/photos/dress3.3.jpg",
+      "name": "Purple Short Dress",
+      "price": 1456,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A rich and elegant dress that adds a bold, stylish touch to any special occasion."
+    },
+    {
+      "id": "76",
+      "img": "/photos/dress4.jpg",
+      "bimg": "/photos/dress4.1.jpg",
+      "bimg1": "/photos/dress4.2.jpg",
+      "bimg2": "/photos/dress4.3.jpg",
+      "name": "Black Dress",
+      "price": 1678,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A timeless and elegant dress that delivers a sleek, classic look for any occasion."
+    },
+    {
+      "id": "77",
+      "img": "/photos/dress5.jpg",
+      "bimg": "/photos/dress5.1.jpg",
+      "bimg1": "/photos/dress5.2.jpg",
+      "bimg2": "/photos/dress5.3.jpg",
+      "name": "Black White Dress",
+      "price": 1875,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A stylish and modern Dress featuring a bold check pattern for a crisp, trendy look."
+    },
+    {
+      "id": "78",
+      "img": "/photos/dress6.jpg",
+      "bimg": "/photos/dress6.1.jpg",
+      "bimg1": "/photos/dress6.2.jpg",
+      "bimg2": "/photos/dress6.3.jpg",
+      "name": "White Green Dress",
+      "price": 1876,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A fresh and vibrant Dress featuring a crisp blend of white and green for a stylish, lively look."
+    },
+    {
+      "id": "79",
+      "img": "/photos/dress7.jpg",
+      "bimg": "/photos/dress7.1.jpg",
+      "bimg1": "/photos/dress7.2.jpg",
+      "bimg2": "/photos/dress7.3.jpg",
+      "name": "Stylish Short Dress",
+      "price": 1890,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A trendy, youthful top designed with a shorter length for a stylish, modern look."
+    },
+    {
+      "id": "80",
+      "img": "/photos/dress8.jpg",
+      "bimg": "/photos/dress8.1.jpg",
+      "bimg1": "/photos/dress8.2.jpg",
+      "bimg2": "/photos/dress8.3.jpg",
+      "name": "Gray Dress",
+      "price": 1765,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A sleek and elegant dress that offers a calm, modern, and effortlessly stylish look."
+    }
+  ],
+  "kids": [
+    {
+      "id": "81",
+      "img": "/photos/girl10.jpg",
+      "bimg": "/photos/girl10.1.jpg",
+      "bimg1": "/photos/girl10.2.jpg",
+      "bimg2": "/photos/girl10.3.jpg",
+      "name": "Pink Dress",
+      "price": 1890,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A cute and charming dress that brings a soft, cheerful look perfect for little girls."
+    },
+    {
+      "id": "82",
+      "img": "/photos/boy9.jpg",
+      "bimg": "/photos/boy9.1.jpg",
+      "bimg1": "/photos/boy9.2.jpg",
+      "bimg2": "/photos/boy9.3.jpg",
+      "name": "Stylish Boys Dress",
+      "price": 1990,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A comfortable and stylish outfit designed to give boys a neat, cool, and everyday-ready look."
+    },
+    {
+      "id": "83",
+      "img": "/photos/girl11.jpg",
+      "bimg": "/photos/girl11.1.jpg",
+      "bimg1": "/photos/girl11.2.jpg",
+      "bimg2": "/photos/girl11.3.jpg",
+      "name": "Stylish Blue Dress",
+      "price": 1000,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A pretty and elegant dress that gives a calm, charming look perfect for young girls."
+    },
+    {
+      "id": "84",
+      "img": "/photos/boy10.jpg",
+      "bimg": "/photos/boy10.1.jpg",
+      "bimg1": "/photos/boy10.2.jpg",
+      "bimg2": "/photos/boy10.3.jpg",
+      "name": "Modern Boys Dress",
+      "price": 1999,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A smart and comfortable outfit crafted to give boys a cool, neat, and everyday-ready look."
+    }
+  ],
+  "girls": [
+    {
+      "id": "85",
+      "img": "/photos/girl1.jpg",
+      "bimg": "/photos/girl1.1.jpg",
+      "bimg1": "/photos/girl1.2.jpg",
+      "bimg2": "/photos/girl1.3.jpg",
+      "name": "Stylish Girls Dress",
+      "price": 2996,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A bright and charming dress featuring a cute red-and-white combination perfect for little girls."
+    },
+    {
+      "id": "86",
+      "img": "/photos/girl2.jpg",
+      "bimg": "/photos/girl2.1.jpg",
+      "bimg1": "/photos/girl2.2.jpg",
+      "bimg2": "/photos/girl2.3.jpg",
+      "name": "Pink Dress",
+      "price": 1245,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft and charming dress that brings a sweet, elegant touch to any occasion."
+    },
+    {
+      "id": "87",
+      "img": "photos/girl3.jpg",
+      "bimg": "photos/girl3.1.jpg",
+      "bimg1": "photos/girl3.2.jpg",
+      "bimg2": "photos/girl3.2.jpg",
+      "name": "Stylish Girls Dress",
+      "price": 2345,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A cute and stylish dress designed to give a sweet, charming look for young girls."
+    },
+    {
+      "id": "88",
+      "img": "/photos/girl4.jpg",
+      "bimg": "/photos/girl4.1.jpg",
+      "bimg1": "/photos/girl4.2.jpg",
+      "bimg2": "/photos/girl4.3.jpg",
+      "name": "Red Black Dress",
+      "price": 1820,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A bold and stylish dress featuring a striking black-and-red combination perfect for young girls."
+    },
+    {
+      "id": "89",
+      "img": "/photos/girl5.jpg",
+      "bimg": "/photos/girl5.1.jpg",
+      "bimg1": "/photos/girl5.2.jpg",
+      "bimg2": "/photos/girl5.3.jpg",
+      "name": "White Black Dress",
+      "price": 1950,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A classy and stylish dress featuring a chic black-and-white contrast for little girls."
+    },
+    {
+      "id": "90",
+      "img": "/photos/girl6.jpg",
+      "bimg": "/photos/girl6.1.jpg",
+      "bimg1": "/photos/girl6.2.jpg",
+      "bimg2": "/photos/girl6.3.jpg",
+      "name": "Blue Short Dress",
+      "price": 1965,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A cute and vibrant short dress in blue, perfect for a cheerful and stylish look for young girls."
+    },
+    {
+      "id": "91",
+      "img": "/photos/girl7.jpg",
+      "bimg": "/photos/girl7.1.jpg",
+      "bimg1": "/photos/girl7.2.jpg",
+      "bimg2": "/photos/girl7.3.jpg",
+      "name": "Maroon and White Dress",
+      "price": 1456,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A playful maroon and white tiny-check girls dress that adds a classic, adorable vibe"
+    },
+    {
+      "id": "92",
+      "img": "/photos/girl8.jpg",
+      "bimg": "/photos/girl8.1.jpg",
+      "bimg1": "/photos/girl8.2.jpg",
+      "bimg2": "/photos/girl8.3.jpg",
+      "name": "white and Red Dress",
+      "price": 1589,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A pretty white and red dress designed for a bright and charming look."
+    }
+  ],
+  "boys": [
+    {
+      "id": "93",
+      "img": "/photos/boy1.jpg",
+      "bimg": "/photos/boy1.1.jpg",
+      "bimg1": "/photos/boy1.2.jpg",
+      "bimg2": "/photos/boy1.3.jpg",
+      "name": "White T-Shirt Pant",
+      "price": 1489,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A chic white dress perfect for a fresh and graceful appearance."
+    },
+    {
+      "id": "94",
+      "img": "/photos/boy2.jpg",
+      "bimg": "/photos/boy2.1.jpg",
+      "bimg1": "/photos/boy2.2.jpg",
+      "bimg2": "/photos/boy2.3.jpg",
+      "name": "white and Blue Pant T-shirt",
+      "price": 1689,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Lightweight navy blue linen tee and pant combo perfect for a relaxed, stylish look"
+    },
+    {
+      "id": "95",
+      "img": "/photos/boy3.jpg",
+      "bimg": "/photos/boy3.1.jpg",
+      "bimg1": "/photos/boy3.2.jpg",
+      "bimg2": "/photos/boy3.3.jpg",
+      "name": "Navy Blue  and White T-shirt pant",
+      "price": 1579,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A premium navy blue linen co-ord that delivers effortless comfort and style."
+    },
+    {
+      "id": "96",
+      "img": "/photos/boy4.jpg",
+      "bimg": "/photos/boy4.1.jpg",
+      "bimg1": "/photos/boy4.2.jpg",
+      "bimg2": "/photos/boy4.3.jpg",
+      "name": "Sandal Black Shirt Pant",
+      "price": 1589,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A stylish sandal-colored pant and black shirt combo perfect for a sharp, modern look"
+    },
+    {
+      "id": "97",
+      "img": "/photos/boy5.jpg",
+      "bimg": "/photos/boy5.1.jpg",
+      "bimg1": "/photos/boy5.2.jpg",
+      "bimg2": "/photos/boy5.3.jpg",
+      "name": "Black White Shirt Pant",
+      "price": 1598,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Smart black and white attire that balances simplicity with elegance."
+    },
+    {
+      "id": "98",
+      "img": "/photos/boy6.jpg",
+      "bimg": "/photos/boy6.1.jpg",
+      "bimg1": "/photos/boy6.2.jpg",
+      "bimg2": "/photos/boy6.3.jpg",
+      "name": "Maroon and White Shirt Pant",
+      "price": 1859,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Beautiful maroon and white birthday wear crafted for a picture-perfect celebration."
+    },
+    {
+      "id": "99",
+      "img": "/photos/boy7.jpg",
+      "bimg": "/photos/boy7.1.jpg",
+      "bimg1": "/photos/boy7.2.jpg",
+      "bimg2": "/photos/boy7.3.jpg",
+      "name": "Black and White Shirt pant",
+      "price": 1674,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Crisp Black and white attire that blends comfort with timeless charm."
+    },
+    {
+      "id": "100",
+      "img": "/photos/boy8.jpg",
+      "bimg": "photos/boy8.1.jpg",
+      "bimg1": "photos/boy8.2.jpg",
+      "bimg2": "photos/boy8.3.jpg",
+      "name": "Boys Casual Shirt Pant",
+      "price": 1583,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A sleek brown shirt crafted for comfort and effortless style."
+    }
+  ],
+  "kidsfoot": [
+    {
+      "id": "101",
+      "img": "/photos/kidsfoot1.jpg",
+      "bimg": "/photos/kidsfoot1.1.jpg",
+      "bimg1": "/photos/kidsfoot1.2.jpg",
+      "bimg2": "/photos/kidsfoot1.3.jpg",
+      "name": "Kids Footwear",
+      "price": 900,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Trendy footwear that blends durability with modern style."
+    },
+    {
+      "id": "102",
+      "img": "/photos/kidsfoot2.jpg",
+      "bimg": "/photos/kidsfoot2.1.jpg",
+      "bimg1": "/photos/kidsfoot2.2.jpg",
+      "bimg2": "/photos/kidsfoot2.3.jpg",
+      "name": "Stylish FootWear",
+      "price": 999,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Lightweight, everyday footwear crafted for perfect comfort."
+    },
+    {
+      "id": "103",
+      "img": "/photos/kidsfoot3.jpg",
+      "bimg": "/photos/kidsfoot3.1.jpg",
+      "bimg1": "/photos/kidsfoot3.2.jpg",
+      "bimg2": "/photos/kidsfoot3.3.jpg",
+      "name": "Kids Stylish FootWear",
+      "price": 897,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Cute and comfy kids footwear designed for active little feet."
+    },
+    {
+      "id": "104",
+      "img": "/photos/kidsfoot4.jpg",
+      "bimg": "/photos/kidsfoot4.1.jpg",
+      "bimg1": "/photos/kidsfoot4.2.jpg",
+      "bimg2": "/photos/kidsfoot4.3.jpg",
+      "name": "Black and White Kids Shoes",
+      "price": 789,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Trendy black and white kids shoes that match any outfit effortlessly."
+    },
+    {
+      "id": "105",
+      "img": "/photos/kidsfoot5.jpg",
+      "bimg": "/photos/kidsfoot5.1.jpg",
+      "bimg1": "/photos/kidsfoot5.2.jpg",
+      "bimg2": "/photos/kidsfoot5.3.jpg",
+      "name": "Pink Shoes",
+      "price": 600,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Cute pink shoes designed for comfort and everyday sparkle."
+    },
+    {
+      "id": "106",
+      "img": "/photos/kidsfoot6.jpg",
+      "bimg": "/photos/kidsfoot6.1.jpg",
+      "bimg1": "/photos/kidsfoot6.2.jpg",
+      "bimg2": "/photos/kidsfoot6.3.jpg",
+      "name": "Light Pink Shoes",
+      "price": 899,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Soft light pink shoes designed for a cute and comfortable everyday look."
+    },
+    {
+      "id": "107",
+      "img": "/photos/kidsfoot7.jpg",
+      "bimg": "/photos/kidsfoot7.1.jpg",
+      "bimg1": "/photos/kidsfoot7.2.jpg",
+      "bimg2": "/photos/kidsfoot7.3.jpg",
+      "name": "Navy Blue shoes",
+      "price": 789,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Sleek navy blue footwear crafted for a smart and versatile style."
+    },
+    {
+      "id": "108",
+      "img": "/photos/kidsfoot8.jpg",
+      "bimg": "/photos/kidsfoot8.1.jpg",
+      "bimg1": "/photos/kidsfoot8.2.jpg",
+      "bimg2": "/photos/kidsfoot8.3.jpg",
+      "name": "Pink Crocs",
+      "price": 567,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Cute pink crocs designed for comfy, everyday wear."
+    }
+  ],
+  "newarrivals": [
+    {
+      "id": "109",
+      "img": "/photos/kurthi1.jpg",
+      "bimg": "/photos/kurthi1.1.jpg",
+      "bimg1": "/photos/kurthi1.2.jpg",
+      "bimg2": "/photos/kurthi1.3.jpg",
+      "name": "kurthi",
+      "price": 1549,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Stylish white and purple kurthi designed for a fresh, festive look."
+    },
+    {
+      "id": "110",
+      "img": "/photos/shirt14.jpg",
+      "bimg": "/photos/shirt14.1.jpg",
+      "bimg1": "/photos/shirt14.2.jpg",
+      "bimg2": "/photos/shirt14.3.jpg",
+      "name": "Yellow Checked Shirt",
+      "price": 1324,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A bright yellow and white checked shirt that brings a fresh, casual vibe."
+    },
+    {
+      "id": "111",
+      "img": "/photos/pant17.jpg",
+      "bimg": "/photos/pant17.1.jpg",
+      "bimg1": "/photos/pant17.2.jpg",
+      "bimg2": "/photos/pant17.3.jpg",
+      "name": "Blue Cargo pant",
+      "price": 1285,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A smart blue cargo pant that blends comfort with rugged style."
+    },
+    {
+      "id": "112",
+      "img": "/photos/girl9.jpg",
+      "bimg": "/photos/girl9.1.jpg",
+      "bimg1": "/photos/girl9.2.jpg",
+      "bimg2": "/photos/girl9.3.jpg",
+      "name": "Black Red Dress",
+      "price": 1365,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A lovely black and red girls’ dress perfect for parties and special moments."
+    },
+    {
+      "id": "113",
+      "img": "/photos/kurthi5.jpg",
+      "bimg": "/photos/kurthi5.1.jpg",
+      "bimg1": "/photos/kurthi5.2.jpg",
+      "bimg2": "/photos/kurthi5.3.jpg",
+      "name": "Blue Top",
+      "price": 1563,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Light blue top with a soft, fresh look perfect for everyday style."
+    },
+    {
+      "id": "114",
+      "img": "/photos/shirt20.jpg",
+      "bimg": "/photos/shirt20.1.jpg",
+      "bimg1": "/photos/shirt20.2.jpg",
+      "name": "Olive Green Shirt",
+      "price": 1365,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Olive green shirt with a clean, classy look for effortless style."
+    },
+    {
+      "id": "115",
+      "img": "/photos/pant16.jpg",
+      "bimg": "/photos/pant16.1.jpg",
+      "bimg1": "/photos/pant16.2.jpg",
+      "bimg2": "/photos/pant16.3.jpg",
+      "name": "Jean Baggy Pant",
+      "price": 1546,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Jean baggy pant with a relaxed, trendy fit for a cool casual look."
+    },
+    {
+      "id": "116",
+      "img": "/photos/short12.jpg",
+      "bimg": "/photos/short12.1.jpg",
+      "bimg1": "/photos/short12.2.jpg",
+      "bimg2": "/photos/short12.3.jpg",
+      "name": "Maroon Shorts",
+      "price": 1365,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Maroon shorts with a bold, stylish look perfect for casual wear."
+    }
+  ],
+  "shoes": [
+    {
+      "id": "117",
+      "img": "/photos/shoe1.jpg",
+      "bimg": "/photos/shoe1.1.jpg",
+      "bimg1": "/photos/shoe1.2.jpg",
+      "bimg2": "/photos/shoe1.3.jpg",
+      "name": "Ivory Brown Shoes",
+      "price": 1500,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Ivory brown shoes with a sleek, modern look perfect for everyday style."
+    },
+    {
+      "id": "118",
+      "img": "/photos/shoe2.jpg",
+      "bimg": "/photos/shoe2.1.jpg",
+      "bimg1": "/photos/shoe2.2.jpg",
+      "bimg2": "/photos/shoe2.3.jpg",
+      "name": "Gray Shoes",
+      "price": 2499,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Gray shoes with a clean, versatile look that pairs well with any outfit."
+    },
+    {
+      "id": "119",
+      "img": "/photos/shoe3.jpg",
+      "bimg": "/photos/shoe3.1.jpg",
+      "bimg1": "/photos/shoe3.2.jpg",
+      "bimg2": "/photos/shoe3.3.jpg",
+      "name": "Light Green Shoes",
+      "price": 2599,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Light green shoes with a fresh, stylish look perfect for everyday wear."
+    },
+    {
+      "id": "120",
+      "img": "/photos/shoe4.jpg",
+      "bimg": "/photos/shoe4.1.jpg",
+      "bimg1": "/photos/shoe4.2.jpg",
+      "bimg2": "/photos/shoe4.3.jpg",
+      "name": "White Brown Shoes",
+      "price": 3299,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "White and brown shoes with a classy, modern look that suits any casual style."
+    },
+    {
+      "id": "121",
+      "img": "/photos/shoe5.jpg",
+      "bimg": "/photos/shoe5.1.jpg",
+      "bimg1": "/photos/shoe5.2.jpg",
+      "bimg2": "/photos/shoe5.3.jpg",
+      "name": "White Shoes",
+      "price": 3399,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "White shoes with a fresh, stylish look perfect for everyday wear."
+    },
+    {
+      "id": "122",
+      "img": "/photos/shoe6.jpg",
+      "bimg": "/photos/shoe6.1.jpg",
+      "bimg1": "/photos/shoe6.2.jpg",
+      "bimg2": "/photos/shoe6.3.jpg",
+      "name": "Dark Gray Shoes",
+      "price": 2199,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Dark gray shoes with a bold, modern look perfect for everyday style."
+    },
+    {
+      "id": "123",
+      "img": "/photos/shoe7.jpg",
+      "bimg": "/photos/shoe7.1.jpg",
+      "bimg1": "/photos/shoe7.2.jpg",
+      "bimg2": "/photos/shoe7.3.jpg",
+      "name": "Black Brown Shoes",
+      "price": 2399,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Black and brown shoes with a sleek, stylish look perfect for casual and smart outfits."
+    },
+    {
+      "id": "124",
+      "img": "/photos/shoe8.jpg",
+      "bimg": "/photos/shoe8.1.jpg",
+      "bimg1": "/photos/shoe8.2.jpg",
+      "bimg2": "/photos/shoe8.3.jpg",
+      "name": "Flash Dash Shoes",
+      "price": 2299,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "Flash Dash shoes with a sporty, energetic look designed for active comfort."
+    }
+  ],
+  "watches": [
+    {
+      "id": "125",
+      "img": "/photos/watch1.jpg",
+      "bimg": "/photos/watch1.1.jpg",
+      "bimg1": "/photos/watch1.2.jpg",
+      "bimg2": "/photos/watch1.3.jpg",
+      "name": "Blue Smart Watch",
+      "price": 4500,
+      "description": "Blue smartwatch with a sleek, modern design perfect for daily tracking and style."
+    },
+    {
+      "id": "126",
+      "img": "/photos/watch2.jpg",
+      "bimg": "/photos/watch2.1.jpg",
+      "bimg1": "/photos/watch2.2.jpg",
+      "name": "Black Dial Watch",
+      "price": 3995,
+      "description": "Black-dial watch with a sleek, timeless design for a classy everyday look."
+    },
+    {
+      "id": "127",
+      "img": "/photos/watch3.jpg",
+      "bimg": "/photos/watch3.1.jpg",
+      "bimg1": "/photos/watch3.2.jpg",
+      "bimg2": "/photos/watch3.3.jpg",
+      "name": "Black Dial Brown Metal Strap Watch",
+      "price": 6895,
+      "description": "Black dial brown metal-strap watch with a bold, elegant look perfect for any occasion."
+    },
+    {
+      "id": "128",
+      "img": "/photos/watch4.jpg",
+      "bimg": "/photos/watch4.1.jpg",
+      "bimg1": "/photos/watch4.2.jpg",
+      "bimg2": "/photos/watch4.3.jpg",
+      "name": "Black Dial Two Toned Metal Strap Watch",
+      "price": 2195,
+      "description": "Black dial two-toned metal watch with a sleek, premium look perfect for both casual and formal style."
+    },
+    {
+      "id": "129",
+      "img": "/photos/watch5.jpg",
+      "bimg": "/photos/watch5.1.jpg",
+      "bimg1": "/photos/watch5.2.jpg",
+      "name": "Green Dial Silver Strap Watch",
+      "price": 1895,
+      "description": "Green dial silver strap watch with a fresh, elegant look perfect for everyday style."
+    },
+    {
+      "id": "130",
+      "img": "/photos/watch6.jpg",
+      "bimg": "/photos/watch6.1.jpg",
+      "bimg1": "/photos/watch6.2.jpg",
+      "bimg2": "/photos/watch6.3.jpg",
+      "name": "Brown Dial Metal Strap Watch",
+      "price": 3995,
+      "description": "Brown dial metal-strap watch with a rich, elegant look perfect for any occasion."
+    },
+    {
+      "id": "131",
+      "img": "/photos/watch7.jpg",
+      "bimg": "/photos/watch7.1.jpg",
+      "bimg1": "/photos/watch7.2.jpg",
+      "bimg2": "/photos/watch7.3.jpg",
+      "name": "Blue Dial Silver Strap Watch",
+      "price": 2999,
+      "description": "Blue dial silver strap watch with a sleek, refined look perfect for daily wear."
+    },
+    {
+      "id": "132",
+      "img": "/photos/watch8.jpg",
+      "bimg": "/photos/watch8.1.jpg",
+      "bimg1": "/photos/watch8.2.jpg",
+      "bimg2": "/photos/watch8.3.jpg",
+      "name": "Brown Dial Metal Strap Watch",
+      "price": 3546,
+      "description": "Brown dial metal strap watch with a classic, polished look suitable for any outfit."
+    }
+  ],
+  "blazers": [
+    {
+      "id": "133",
+      "img": "/photos/blazer1.jpg",
+      "bimg": "/photos/blazer1.1.jpg",
+      "bimg1": "/photos/blazer1.2.jpg",
+      "bimg2": "/photos/blazer1.3.jpg",
+      "name": "Gray Fit Blazer",
+      "price": 2590,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Gray blazer with a sharp, polished look perfect for both formal and casual styling."
+    },
+    {
+      "id": "134",
+      "img": "/photos/blazer2.jpg",
+      "bimg": "/photos/blazer2.1.jpg",
+      "bimg1": "/photos/blazer2.2.jpg",
+      "bimg2": "/photos/blazer2.3.jpg",
+      "name": "Maroon Fit Blazer",
+      "price": 3578,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Maroon blazer with a bold, classy look perfect for standout styling."
+    },
+    {
+      "id": "135",
+      "img": "/photos/blazer3.jpg",
+      "bimg": "/photos/blazer3.1.jpg",
+      "bimg1": "/photos/blazer3.2.jpg",
+      "bimg2": "/photos/blazer3.3.jpg",
+      "name": "Beige Fit Blazer",
+      "price": 3899,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Beige blazer with a soft, elegant look perfect for refined casual or formal style."
+    },
+    {
+      "id": "136",
+      "img": "/photos/blazer4.jpg",
+      "bimg": "/photos/blazer4.1.jpg",
+      "bimg1": "/photos/blazer4.2.jpg",
+      "bimg2": "/photos/blazer4.3.jpg",
+      "name": "Navy Blue Fit Blazer",
+      "price": 4583,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A classic, polished layer that delivers refined style for any occasion.."
+    },
+    {
+      "id": "137",
+      "img": "/photos/blazer5.jpg",
+      "bimg": "/photos/blazer5.1.jpg",
+      "bimg1": "/photos/blazer5.2.jpg",
+      "bimg2": "/photos/blazer5.3.jpg",
+      "name": "Black Blazer",
+      "price": 4357,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A sleek and timeless layer that adds sharp sophistication to any outfit."
+    },
+    {
+      "id": "138",
+      "img": "/photos/blazer6.jpg",
+      "bimg": "/photos/blazer6.1.jpg",
+      "bimg1": "/photos/blazer6.2.jpg",
+      "bimg2": "/photos/blazer6.3.jpg",
+      "name": "Purple Blazer",
+      "price": 3457,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A bold and elegant statement piece that brings vibrant sophistication to your look."
+    },
+    {
+      "id": "139",
+      "img": "/photos/blazer7.jpg",
+      "bimg": "/photos/blazer7.1.jpg",
+      "bimg1": "/photos/blazer7.2.jpg",
+      "bimg2": "/photos/blazer7.3.jpg",
+      "name": "Dark Purple Blazer",
+      "price": 2347,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Dark purple blazer — a rich, classy layer that adds deep elegance and standout style to any outfit."
+    },
+    {
+      "id": "140",
+      "img": "/photos/blazer8.jpg",
+      "bimg": "/photos/blazer8.1.jpg",
+      "bimg1": "/photos/blazer8.2.jpg",
+      "bimg2": "/photos/blazer8.3.jpg",
+      "name": "Light Pink Blazer",
+      "price": 3478,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Light pink blazer — a soft, chic layer that brings gentle elegance and fresh charm to your look."
+    }
+  ],
+  "section": [
+    {
+      "id": "141",
+      "img": "/photos/shirt16.jpg",
+      "bimg": "/photos/shirt16.1.jpg",
+      "bimg1": "/photos/shirt16.2.jpg",
+      "bimg2": "/photos/shirt16.3.jpg",
+      "name": "Red Blue Checked Shirt",
+      "price": 1579,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A vibrant, casual style piece with a classic check pattern for an effortlessly cool look."
+    },
+    {
+      "id": "142",
+      "img": "/photos/pant13.jpg",
+      "bimg": "/photos/pant13.1.jpg",
+      "bimg1": "/photos/pant13.2.jpg",
+      "bimg2": "/photos/pant13.3.jpg",
+      "name": "Men Blue Jean",
+      "price": 1164,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A timeless, versatile denim essential for everyday comfort and style."
+    },
+    {
+      "id": "143",
+      "img": "/photos/kurthi3.jpg",
+      "bimg": "/photos/kurthi3.1.jpg",
+      "bimg1": "/photos/kurthi3.2.jpg",
+      "bimg2": "/photos/kurthi3.3.jpg",
+      "name": "Sandal Kurthi",
+      "price": 1365,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft, elegant outfit that offers a warm, earthy look with effortless style."
+    },
+    {
+      "id": "144",
+      "img": "/photos/short11.jpg",
+      "bimg": "/photos/short11.1.jpg",
+      "bimg1": "/photos/short11.2.jpg",
+      "bimg2": "/photos/short11.3.jpg",
+      "name": "Men Fit Short",
+      "price": 1222,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A comfy, casual bottom designed for easy movement and everyday style."
+    },
+    {
+      "id": "145",
+      "img": "/photos/pant18.jpg",
+      "bimg": "/photos/pant18.1.jpg",
+      "bimg1": "/photos/pant18.2.jpg",
+      "bimg2": "/photos/pant18.3.jpg",
+      "name": "Brown Cargo Baggy Pant",
+      "price": 1589,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A relaxed, stylish fit that brings effortless comfort with a trendy, laid-back look."
+    },
+    {
+      "id": "146",
+      "img": "/photos/girl12.jpg",
+      "bimg": "/photos/girl12.1.jpg",
+      "bimg1": "/photos/girl12.2.jpg",
+      "bimg2": "/photos/girl12.3.jpg",
+      "name": "Purple Frock",
+      "price": 2456,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A cute and charming outfit with a vibrant shade that adds a touch of elegance."
+    },
+    {
+      "id": "147",
+      "img": "/photos/shirt15.jpg",
+      "bimg": "/photos/shirt15.1.jpg",
+      "bimg1": "/photos/shirt15.2.jpg",
+      "bimg2": "/photos/shirt15.3.jpg",
+      "name": "Green Printed Shirt",
+      "price": 2890,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A stylish, refreshing piece featuring lively prints for a cool, standout look."
+    },
+    {
+      "id": "148",
+      "img": "/photos/kurthi4.jpg",
+      "bimg": "/photos/kurthi4.1.jpg",
+      "bimg1": "/photos/kurthi4.2.jpg",
+      "bimg2": "/photos/kurthi4.3.jpg",
+      "name": "Maroon Kurthi",
+      "price": 1267,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A rich, elegant outfit that brings classic charm with its deep and graceful tone."
+    }
+  ],
+  "handbags": [
+    {
+      "id": "149",
+      "img": "/photos/handbag1.jpg",
+      "bimg": "/photos/handbag1.1.jpg",
+      "bimg1": "/photos/handbag1.2.jpg",
+      "bimg2": "/photos/handbag1.3.jpg",
+      "name": "Tote Hand Bag",
+      "price": 4499,
+      "description": "A spacious, stylish carryall perfect for everyday use and effortless convenience."
+    },
+    {
+      "id": "150",
+      "img": "/photos/handbag2.jpg",
+      "bimg": "/photos/handbag2.1.jpg",
+      "bimg1": "/photos/handbag2.2.jpg",
+      "bimg2": "/photos/handbag2.3.jpg",
+      "name": "Hobo Bag",
+      "price": 4589,
+      "description": "A soft, slouchy bag offering relaxed style with roomy, everyday convenience."
+    },
+    {
+      "id": "151",
+      "img": "/photos/handbag3.jpg",
+      "bimg": "/photos/handbag3.1.jpg",
+      "bimg1": "/photos/handbag3.2.jpg",
+      "bimg2": "/photos/handbag3.3.jpg",
+      "name": "CrossBody HandBag",
+      "price": 2099,
+      "description": "A compact, hands-free bag designed for easy carrying with stylish everyday convenience."
+    },
+    {
+      "id": "152",
+      "img": "/photos/handbag4.jpg",
+      "bimg": "/photos/handbag4.1.jpg",
+      "bimg1": "/photos/handbag4.2.jpg",
+      "bimg2": "/photos/handbag4.3.jpg",
+      "name": "Tote HandBag",
+      "price": 4499,
+      "description": "A roomy, stylish carryall designed for everyday comfort and effortless organization."
+    },
+    {
+      "id": "153",
+      "img": "/photos/handbag5.jpg",
+      "bimg": "/photos/handbag5.1.jpg",
+      "bimg1": "/photos/handbag5.2.jpg",
+      "bimg2": "/photos/handbag5.3.jpg",
+      "name": "Estelle Crossbody HandBag",
+      "price": 1919,
+      "description": "A classy, textured piece that adds chic elegance with comfortable hands-free style."
+    },
+    {
+      "id": "154",
+      "img": "/photos/handbag6.jpg",
+      "bimg": "/photos/handbag6.1.jpg",
+      "bimg1": "/photos/handbag6.2.jpg",
+      "bimg2": "/photos/handbag6.3.jpg",
+      "name": "Estelle Tweed Crossbody HandBag",
+      "price": 2029,
+      "description": "A chic, compact carryall that blends elegant design with hands-free convenience for everyday style."
+    },
+    {
+      "id": "155",
+      "img": "/photos/handbag7.jpg",
+      "bimg": "/photos/handbag7.1.jpg",
+      "bimg1": "/photos/handbag7.2.jpg",
+      "bimg2": "/photos/handbag7.3.jpg",
+      "name": "Amanda CrossBody Bag",
+      "price": 2199,
+      "description": "A sleek, modern carryall offering effortless hands-free convenience with stylish everyday appeal."
+    },
+    {
+      "id": "156",
+      "img": "/photos/handbag8.jpg",
+      "bimg": "/photos/handbag8.1.jpg",
+      "bimg1": "/photos/handbag8.2.jpg",
+      "bimg2": "/photos/handbag8.3.jpg",
+      "name": "Soul CrossBody HandBag",
+      "price": 2799,
+      "description": "A chic, compact design that brings effortless elegance and easy hands-free style."
+    }
+  ],
+  "footwears": [
+    {
+      "id": "157",
+      "img": "/photos/footware1.jpg",
+      "bimg": "/photos/footware1.1.jpg",
+      "bimg1": "/photos/footware1.2.jpg",
+      "bimg2": "/photos/footware1.3.jpg",
+      "name": "Black Women Slip On",
+      "price": 1678,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "A sleek, versatile pair that adds effortless style to any outfit."
+    },
+    {
+      "id": "158",
+      "img": "/photos/footware2.jpg",
+      "bimg": "/photos/footware2.1.jpg",
+      "bimg1": "/photos/footware2.2.jpg",
+      "bimg2": "/photos/footware2.3.jpg",
+      "name": "White Women Slip On",
+      "price": 1215,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "A clean, stylish pair that adds fresh elegance to any look."
+    },
+    {
+      "id": "159",
+      "img": "/photos/footware3.jpg",
+      "bimg": "/photos/footware3.1.jpg",
+      "bimg1": "/photos/footware3.2.jpg",
+      "bimg2": "/photos/footware3.3.jpg",
+      "name": "Taupe Women Textured Heel Slip On",
+      "price": 2353,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "A chic, refined pair offering stylish texture and effortless elegance."
+    },
+    {
+      "id": "160",
+      "img": "/photos/footware4.jpg",
+      "bimg": "/photos/footware4.1.jpg",
+      "bimg1": "/photos/footware4.2.jpg",
+      "bimg2": "/photos/footware4.3.jpg",
+      "name": "Women Criss Cross Platforms",
+      "price": 1264,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "A trendy, elevated pair featuring stylish criss-cross straps for bold, confident steps."
+    },
+    {
+      "id": "161",
+      "img": "/photos/footware5.jpg",
+      "bimg": "/photos/footware5.1.jpg",
+      "bimg1": "/photos/footware5.2.jpg",
+      "bimg2": "/photos/footware5.3.jpg",
+      "name": "Women Ballerinas",
+      "price": 2134,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "A sleek, comfortable pair that adds simple elegance to everyday outfits."
+    },
+    {
+      "id": "162",
+      "img": "/photos/footware6.jpg",
+      "bimg": "/photos/footware6.1.jpg",
+      "bimg1": "/photos/footware6.2.jpg",
+      "bimg2": "/photos/footware6.3.jpg",
+      "name": "Men Casual Shoe",
+      "price": 1789,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "A stylish, comfortable pair perfect for everyday casual wear with a warm, classic look."
+    },
+    {
+      "id": "163",
+      "img": "/photos/footware7.jpg",
+      "bimg": "/photos/footware7.1.jpg",
+      "bimg1": "/photos/footware7.2.jpg",
+      "bimg2": "/photos/footware7.3.jpg",
+      "name": "Men Casual Black Shoe",
+      "price": 1908,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "A sleek, versatile pair designed for everyday comfort and effortless style."
+    },
+    {
+      "id": "164",
+      "img": "/photos/footware8.jpg",
+      "bimg": "/photos/footware8.1.jpg",
+      "bimg1": "/photos/footware8.2.jpg",
+      "bimg2": "/photos/footware8.3.jpg",
+      "name": "Men Casual Brown Shoe",
+      "price": 1458,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "description": "A classic, comfy pair that adds warm style to everyday outfits."
+    }
+  ],
+  "sockes": [
+    {
+      "id": "165",
+      "img": "/photos/sockes1.jpg",
+      "bimg": "/photos/sockes1.1.jpg",
+      "bimg1": "/photos/sockes1.2.jpg",
+      "bimg2": "/photos/sockes1.jpg",
+      "name": "Men Black and White Sockes",
+      "price": 456,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft, comfortable pair offering a classic color combo for everyday wear."
+    },
+    {
+      "id": "166",
+      "img": "/photos/sockes2.jpg",
+      "bimg": "/photos/sockes2.1.jpg",
+      "bimg1": "/photos/sockes2.2.jpg",
+      "bimg2": "/photos/sockes2.3.jpg",
+      "name": "Black and Red Sockes",
+      "price": 567,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A bold, comfortable pair featuring a striking color combo for everyday style."
+    },
+    {
+      "id": "167",
+      "img": "/photos/sockes3.jpg",
+      "bimg": "/photos/sockes3.1.jpg",
+      "bimg1": "/photos/sockes3.2.jpg",
+      "bimg2": "/photos/sockes3.jpg",
+      "name": "Light Yellow Sockes",
+      "price": 675,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft, cheerful pair that adds a fresh, bright touch to everyday wear."
+    },
+    {
+      "id": "168",
+      "img": "/photos/sockes4.jpg",
+      "bimg": "/photos/sockes4.1.jpg",
+      "bimg1": "/photos/sockes4.2.jpg",
+      "bimg2": "/photos/sockes4.3.jpg",
+      "name": "Pink and Green Sockes",
+      "price": 650,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A fun, vibrant pair that brings a playful pop of color to everyday style."
+    },
+    {
+      "id": "169",
+      "img": "/photos/sockes5.jpg",
+      "bimg": "/photos/sockes5.1.jpg",
+      "bimg1": "/photos/sockes5.2.jpg",
+      "bimg2": "/photos/sockes5.3.jpg",
+      "name": "Blue and Black Sockes",
+      "price": 687,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A cool, comfy pair featuring a bold dual-tone look for everyday wear."
+    },
+    {
+      "id": "170",
+      "img": "/photos/sockes6.jpg",
+      "bimg": "/photos/sockes6.1.jpg",
+      "bimg1": "/photos/sockes6.2.jpg",
+      "bimg2": "/photos/sockes6.3.jpg",
+      "name": "White and Gray Sockes",
+      "price": 567,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A bold, comfortable pair featuring a striking color combo for everyday style."
+    },
+    {
+      "id": "171",
+      "img": "/photos/sockes7.jpg",
+      "bimg": "/photos/sockes7.1.jpg",
+      "bimg1": "/photos/sockes7.2.jpg",
+      "bimg2": "/photos/sockes7.3.jpg",
+      "name": "Men Orange Sockes",
+      "price": 768,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A soft, neutral pair that delivers clean, everyday comfort with a subtle two-tone style."
+    },
+    {
+      "id": "172",
+      "img": "/photos/sockes8.jpg",
+      "bimg": "/photos/sockes8.1.jpg",
+      "bimg1": "/photos/sockes8.2.jpg",
+      "bimg2": "/photos/sockes8.3.jpg",
+      "name": "Men Black Sockes",
+      "price": 768,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "A classic, comfortable pair perfect for everyday use with sleek, timeless style."
+    }
+  ],
+  "makeup": [
+    {
+      "id": "173",
+      "img": "/photos/makeup1.jpg",
+      "name": "Skin Silk Serum Foundation",
+      "price": 876,
+      "description": "A lightweight, silky formula that delivers smooth, radiant coverage with a natural finish."
+    },
+    {
+      "id": "174",
+      "img": "/photos/makeup2.jpg",
+      "name": "Milani Conceal Shine Proof Powder",
+      "price": 1435,
+      "description": "A smooth, mattifying powder that controls shine and gives flawless, long-lasting coverage."
+    },
+    {
+      "id": "175",
+      "img": "/photos/makeup3.jpg",
+      "name": "PinkFlash Watery Transferproof Lip Cream",
+      "price": 626,
+      "description": "A lightweight, hydrating lip color that delivers vibrant pigment with long-lasting, transfer-proof wear."
+    },
+    {
+      "id": "176",
+      "img": "/photos/makeup4.jpg",
+      "name": "Waterproof Shimmer Eyeshadow and Liner Stick",
+      "price": 383,
+      "description": "A long-lasting, sparkling dual-use stick that adds bold shimmer and smooth, smudge-proof definition."
+    },
+    {
+      "id": "177",
+      "img": "/photos/makeup5.jpg",
+      "name": "Thrones Dragon Lash Mascara",
+      "price": 348,
+      "description": "A bold, volumizing formula that delivers dramatic, lifted lashes with intense definition."
+    },
+    {
+      "id": "178",
+      "img": "/photos/makeup6.jpg",
+      "name": "Eveline Variete Gel EyeLiner Pencil",
+      "price": 674,
+      "description": "a smooth, ultra-pigmented gel pencil that glides easily for bold, long-lasting eye definition."
+    },
+    {
+      "id": "179",
+      "img": "/photos/makeup7.jpg",
+      "name": "Milani Gilded Flora Eye Shadow Sticks",
+      "price": 1015,
+      "description": "Creamy, vibrant sticks that glide on effortlessly for long-lasting, floral-inspired shimmer."
+    },
+    {
+      "id": "180",
+      "img": "/photos/makeup8.jpg",
+      "name": "Oil Control Fixing Spray",
+      "price": 968,
+      "description": ""
+    }
+  ],
+  "perfume": [
+    {
+      "id": "181",
+      "img": "/photos/perfume1.jpg",
+      "bimg": "/photos/perfume1.1.jpg",
+      "name": "Marc Jacobs Perfect Eau De Parfum",
+      "price": 8750,
+      "description": "A playful, comforting floral perfume blending fresh rhubarb and daffodil with soft almond milk and cozy cashmeran"
+    },
+    {
+      "id": "182",
+      "img": "/photos/perfume2.jpg",
+      "bimg": "/photos/perfume2.1.jpg",
+      "name": "Lancome Tresor Midnight Rose Leau De Parfum",
+      "price": 6500,
+      "description": "A seductive blend of juicy raspberry and soft rose wrapped in warm vanilla-musk woods, perfect for romantic evenings"
+    },
+    {
+      "id": "183",
+      "img": "/photos/perfume3.jpg",
+      "bimg": "/photos/perfume3.1.jpg",
+      "name": "Skinn by Titan sheer",
+      "price": 2795,
+      "description": "A bright and playful floral-fruity perfume with juicy pear and strawberry wrapped in soft, elegant florals."
+    },
+    {
+      "id": "184",
+      "img": "/photos/perfume4.jpg",
+      "bimg": "/photos/perfume4.1.jpg",
+      "name": "Destiny Leau De Parfum",
+      "price": 4507,
+      "description": "A bold, fresh perfume blending zesty lime with smooth sea notes and warm musk for a clean, confident scent."
+    },
+    {
+      "id": "185",
+      "img": "/photos/perfume5.jpg",
+      "bimg": "/photos/perfume5.1.jpg",
+      "name": "Lune Bleue Luxury Parfum",
+      "price": 2603,
+      "description": "A fresh citrus-aquatic perfume balanced with soft florals and warm amber for a clean, elegant finish"
+    },
+    {
+      "id": "186",
+      "img": "/photos/perfume6.jpg",
+      "bimg": "/photos/perfume6.1.jpg",
+      "name": "Skinn by Titan Nude",
+      "price": 2795,
+      "description": "A soft, sensual floral-fruity perfume with lychee and raspberry notes wrapped in warm sandalwood and musk."
+    },
+    {
+      "id": "187",
+      "img": "/photos/perfume7.jpg",
+      "bimg": "/photos/perfume7.1.jpg",
+      "name": "Eau De Parfum",
+      "price": 3490,
+      "description": "A long-lasting, rich fragrance with deeper concentrated notes for an elegant and enduring scent"
+    },
+    {
+      "id": "188",
+      "img": "/photos/perfume8.jpg",
+      "bimg": "/photos/perfume8.1.jpg",
+      "name": "Ferragamo Eau De Toilette",
+      "price": 6000,
+      "description": "A smooth blend of refined bergamot and tonka bean over warm cashmere wood — modern, subtle and effortlessly elegant."
+    }
+  ]
+}
